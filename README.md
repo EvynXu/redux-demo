@@ -1,5 +1,7 @@
 # redux-demo
 learning redux
+
+![](https://github.com/EvynXu/redux-demo/raw/master/static/redux.gif)
 ### require
 * nodejs
 * webpack
